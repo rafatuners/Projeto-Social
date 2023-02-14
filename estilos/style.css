@@ -38,10 +38,11 @@ section#telefone {
 
 iframe#tela{
     position: relative;
-    top: 80px;
+    top: 38px;
     left: 22px;
-    width: 267px;
-    height: 471px;
+    width: 300px;
+    height: 650px;
+    border-radius: 4px;
 }
 
 section#redes-sociais {
