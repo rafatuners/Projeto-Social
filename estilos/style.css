@@ -25,14 +25,14 @@ main{
 }
 
 section#telefone {
-    height: 627px;
-    width: 311px;
+    height: 714px;
+    width: 353px;
     
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    background: url('../imagens/frame-s22.png') no-repeat;
     
 }
 
